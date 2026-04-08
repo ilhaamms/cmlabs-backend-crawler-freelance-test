@@ -153,11 +153,3 @@ Request → chromedp (Headless Chrome)
 | `PORT` | `8080` | Port HTTP server |
 | `CRAWLED_PAGES_DIR` | `crawled_pages` | Direktori penyimpanan file HTML |
 | `CHROME_TIMEOUT` | `60` | Timeout crawling dalam detik |
-
-## Task
-
-1. ✅ Buat Aplikasi / API untuk crawling website dan menyimpan hasilnya dalam file HTML dengan ketentuan crawler harus bisa meng-crawl website tipe SPA, SSR, ataupun PWA.
-2. ✅ Crawl website berikut dan simpan hasilnya di file HTML:
-   - https://cmlabs.co
-   - https://sequence.day
-   - https://tokopedia.com (website bebas)
